@@ -50,17 +50,6 @@ The following preprocessing techniques were applied:
 - Stopword removal
 - Lemmatization
 
-### Final Preprocessing Pipeline
-
-```text
-Lowercasing
-→ Contraction Handling
-→ Punctuation Removal
-→ Tokenization
-→ Stopword Removal
-→ Lemmatization
-```
-
 Lemmatization was selected over stemming because it preserves semantic meaning more effectively.
 
 ---
